@@ -45,7 +45,7 @@ project-vision-transformer/
 │   ├─ ViT3.ipynb         # CNN併用モデル
 │   ├─ 111.ipynb          # 予備実験・検証ノート
 ├─ docs/
-│   ├─ abstract.pdf        # 論文要約（卒業論文）
+│   ├─ abstract.pdf        # 論文
 ```
 
 ---
