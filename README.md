@@ -43,7 +43,6 @@ project-vision-transformer/
 ├─ src/
 │   ├─ study.ipynb        # 基本モデル
 │   ├─ ViT3.ipynb         # CNN併用モデル
-│   ├─ 111.ipynb          # 予備実験・検証ノート
 ├─ docs/
 │   ├─ abstract.pdf        # 論文
 ```
